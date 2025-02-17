@@ -7,7 +7,9 @@ This repository contains a Python implementation for sampling finite unit norm t
 The implementation is based on algorithms described in the papers:  
 
 > **Sampling FUNTFs by way of a Hamiltonian toric action**  
-> Faldet and Shonkwiler  
+> Faldet and Shonkwiler
+
+
 > **Constructing Finite Frames of a Given Spectrum and Set of Lengths**  
 > Cahill, Fickus, Mixon, Poteet, and Strawn.   
 
