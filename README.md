@@ -11,7 +11,7 @@ The implementation is based on algorithms described in the papers:
 > **Constructing Finite Frames of a Given Spectrum and Set of Lengths**  
 > Cahill, Fickus, Mixon, Poteet, and Strawn.   
 
-See Results folder for the ouput of several runs of the `coherence_distribution` function with various values of d and N. Key components of the implementation include:  
+See `Results` folder for the ouput of several runs of the `coherence_distribution` function with various values of d and N. Key components of the implementation include:  
 
 - **Frame Class:**   
 Represents a frame (a spanning set of vectors in ℂ <sup>d</sup>) and provides methods to check properties (e.g., tightness, unit norm, coherence) and compute related operators (analysis, synthesis, frame operator).  
