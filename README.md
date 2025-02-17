@@ -40,7 +40,7 @@ The implementation requires the following Python packages:
 - [SciPy](https://www.scipy.org/)
 - [matplotlib](https://matplotlib.org/)
 - [tqdm](https://github.com/tqdm/tqdm)
-- [polytope](https://github.com/cvxgrp/polytope) (for polytope operations)
+- [polytope](http://tulip-control.github.io/polytope/) (for polytope operations)
 
 Install these dependencies using pip:
 
