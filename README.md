@@ -4,9 +4,9 @@ This repository contains a Python implementation for sampling finite unit norm t
 
 ## Overview  
 
-The implementation is based on algorithms described in the papers:  
+The implementation is based on the algorithm `Eigenlift` described in the papers:  
 
-> **Sampling FUNTFs by way of a Hamiltonian toric action**  
+> **Sampling Finite Unit Norm Tight Frames Using Symplectic Geometry**  
 > Faldet and Shonkwiler
 
 
